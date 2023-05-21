@@ -40,8 +40,10 @@ local.properties
 *.suo
 *.user
 *.sln.docstates
+.vs
 
 # Build results
+cmake-build-*/
 [Dd]ebug/
 [Rr]elease/
 [Dd]ebug64/
